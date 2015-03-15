@@ -1,6 +1,7 @@
 /* DHT.c
  *
- * An implementation of the DHT as seen in http://wiki.tox.im/index.php/DHT
+ * An implementation of the DHT as seen in
+ * https://github.com/irungentoo/toxcore/blob/master/docs/updates/DHT.md
  *
  *  Copyright (C) 2013 Tox project All Rights Reserved.
  *
